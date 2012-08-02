@@ -1,0 +1,9 @@
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\SvnMailer.exe
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\SvnMailer.pdb
+C:\Users\18418\Code\SvnMailer\SvnMailer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\18418\Code\SvnMailer\SvnMailer\obj\x86\Debug\SvnMailer.exe
+C:\Users\18418\Code\SvnMailer\SvnMailer\obj\x86\Debug\SvnMailer.pdb
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\CommandLine.dll
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\CommandLine.xml
+C:\Users\18418\Code\SvnMailer\SvnMailer\bin\Debug\Newtonsoft.Json.xml
