@@ -11,9 +11,11 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
-    <StartArguments>-v phmaw149 -f mobility-build@infor.com -t john.surban@infor.com -n "C:\Program Files\TortoiseSVN\bin" -e 6951 -a C:\Users\18418\temp\mobilityrepo</StartArguments>
+    <StartArguments>
+    </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <StartArguments>-v phmaw149 -f mobility-build@infor.com -t john.surban@infor.com -n "C:\Program Files\TortoiseSVN\bin" -e 6951 -a C:\Users\18418\temp\mobilityrepo</StartArguments>
+    <StartArguments>
+    </StartArguments>
   </PropertyGroup>
 </Project>
